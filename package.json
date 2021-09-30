@@ -1,0 +1,16 @@
+{
+  "name": "getting-started-playwright",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "base": "node src/base.js",
+    "app": "node src/falabella.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "playwright": "^1.15.0"
+  }
+}
